@@ -1,4 +1,4 @@
-Clientes;ID;Edad_años; Ingreso_anual ;HistorialCrediticio; Monto_del _prestamo ;Plazo_del_prestamo_años;n_de_creditos previos;Empleo;Tasa_de_interes_del_prestamo
+Clientes;ID;Edad_años; Ingreso_anual ;HistorialCrediticio; Monto_del_prestamo ;Plazo_del_prestamo_años;n_de_creditos previos;Empleo;Tasa_de_interes_del_prestamo
 1;1000;45;34797298;1;18127963;11;3;1;30
 2;1001;34;21087261;1;27816583;4;3;1;14
 3;1002;31;21203953;0;10666109;13;1;2;2
